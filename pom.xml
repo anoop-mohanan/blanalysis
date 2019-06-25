@@ -83,5 +83,6 @@
         </plugin>
       </plugins>
     </pluginManagement>
+    <finalName>blanalysis</finalName>
   </build>
 </project>
