@@ -2,6 +2,8 @@
 
 This project performs the Barren Land Analysis of a 400 x 600 fertile field.
 
+Please note: the project requires maven installed on the host machine.
+
 To run the project, perform the following steps:
 
 1. Checkout the project to your desired folder.
