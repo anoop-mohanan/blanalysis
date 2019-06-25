@@ -96,7 +96,7 @@ public class App
      */
     public static boolean validateRange(Coordinate coordinate) {
         boolean isValidCoordinate = true;
-        if(coordinate.getX() < 0 || coordinate.getY() > 399) {
+        if(coordinate.getX() < 0 || coordinate.getX() > 399) {
             isValidCoordinate = false;
         } else if(coordinate.getY() < 0 || coordinate.getY() > 599) {
             isValidCoordinate = false;
